@@ -38,7 +38,7 @@ function alunosAprovados (ALUNOS,media) {
 		}
 	}
 
-	return aprovados;
+	return `os alunos aprovados são: ${aprovados}.`;
 
 }
 
